@@ -10,7 +10,7 @@ Soy Pablo Quiñones Gil, con formación académica en ADE y especialización en 
 
 📫 [LinkedIn](https://www.linkedin.com/in/pabloquinonesgil/) · 📧 pabloqgil@gmail.com
 
-Este repositorio recoge mis proyectos de análisis de datos a modo de portfolio.
+Este repositorio recoge mis proyectos de análisis de datos.
 
 ---
 
