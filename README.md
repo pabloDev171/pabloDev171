@@ -26,6 +26,6 @@ ETL en Python (Pandas) sobre un dataset JSON de pedidos, con cálculo de métric
 
 **Stack:** Python (Pandas) · Power BI
 
-**Métricas clave obtenidas:** % clientes recurrentes (47,81 %) · importe medio primer pedido (1.878,49 €) · importe medio pedidos recurrentes (12.268,57 €) · tiempo medio entre recurrencias (31,77 días).
+**Métricas clave obtenidas:** % Clientes recurrentes (47,81 %) · Importe medio primer pedido (1.878,49 €) · Importe medio pedidos recurrentes (12.268,57 €) · Tiempo medio entre recurrencias (31,77 días).
 
 ---
