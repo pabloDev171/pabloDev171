@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](./banner/banner.png)
 
 # 📊 Proyectos de Análisis de Datos
 
