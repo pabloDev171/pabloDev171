@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-# 📊 Data Analyst Portfolio
+# 📊 Portfolio
 
 ## 👋 Sobre mí
 
