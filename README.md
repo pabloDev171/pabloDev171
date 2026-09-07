@@ -1,5 +1,17 @@
 # 📊 Proyectos de Análisis de Datos
 
+## 👋 Sobre mí
+
+Soy Pablo Quiñones Gil, Data Analyst con formación en ADE y especialización en análisis de datos. Cuento con más de 2 años de experiencia en el sector retail, centrado en procesos de extracción, transformación y limpieza de datos (ETL) y en la creación de dashboards para el control de stock, KPIs logísticos y toma de decisiones.
+
+**Stack:** Power BI · QlikView · Excel avanzado (Power Query, Power Pivot) · SQL · Python · Dynamics 365 · Navision
+
+📫 [LinkedIn](https://www.linkedin.com/pablo) · 📧 pabloqgil@gmail.com
+
+Este repositorio recoge mis proyectos de análisis de datos a modo de portfolio.
+
+---
+
 Portfolio de proyectos de análisis de datos: ETL, cálculo de métricas de negocio y visualización mediante dashboards.
 
 ---
@@ -15,4 +27,3 @@ ETL en Python (Pandas) sobre un dataset JSON de pedidos, con cálculo de métric
 **Métricas clave obtenidas:** % clientes recurrentes (47,81 %) · importe medio primer pedido (1.878,49 €) · importe medio pedidos recurrentes (12.268,57 €) · tiempo medio entre recurrencias (31,77 días).
 
 ---
-
