@@ -4,7 +4,7 @@
 
 ## 👋 Sobre mí
 
-Soy Pablo Quiñones Gil, con formación académica en ADE y especialización en Máster de Data Analyst. Cuento con más de 2 años de experiencia en el sector retail, centrado en procesos de extracción, transformación y limpieza de datos (ETL) y en la creación de dashboards para el control de stock, KPIs logísticos y toma de decisiones.
+Soy Pablo Quiñones Gil, con formación académica en ADE y especialización en Máster de Data Analyst. Cuento con más de 2 años de experiencia en el sector retail, centrado en procesos de extracción, transformación y limpieza de datos (ETL), así como la creación de dashboards para el control de stock, KPIs logísticos y toma de decisiones.
 
 **Stack:** Power BI · QlikView · Excel avanzado (Power Query, Power Pivot) · SQL · Python · Dynamics 365 · Navision
 
