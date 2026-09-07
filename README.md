@@ -14,10 +14,6 @@ Este repositorio recoge mis proyectos de análisis de datos a modo de portfolio.
 
 ---
 
-Portfolio de proyectos de análisis de datos: ETL, cálculo de métricas de negocio y visualización mediante dashboards.
-
----
-
 ## Retail Project — Análisis de comportamiento de clientes (2020–2021)
 
 🔗 [Ver proyecto completo](https://github.com/pabloDev171/pabloDev171/tree/main/Retail%20Project)
