@@ -6,7 +6,7 @@ Soy Pablo Quiñones Gil, Data Analyst con formación en ADE y especialización e
 
 **Stack:** Power BI · QlikView · Excel avanzado (Power Query, Power Pivot) · SQL · Python · Dynamics 365 · Navision
 
-📫 [LinkedIn]([https://www.linkedin.com/pablo](https://www.linkedin.com/in/pabloquinonesgil/) · 📧 pabloqgil@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/pabloquinonesgil/) · 📧 pabloqgil@gmail.com
 
 Este repositorio recoge mis proyectos de análisis de datos a modo de portfolio.
 
