@@ -16,5 +16,3 @@ ETL en Python (Pandas) sobre un dataset JSON de pedidos, con cálculo de métric
 
 ---
 
-*Más proyectos próximamente.*
-
