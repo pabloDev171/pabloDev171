@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # 📊 Proyectos de Análisis de Datos
 
 ## 👋 Sobre mí
