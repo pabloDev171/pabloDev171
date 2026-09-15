@@ -39,8 +39,4 @@ El proyecto se divide en dos notebooks:
 
 **Stack:** Python · Selenium · BeautifulSoup · Pandas · Matplotlib · Seaborn
 
-**Datos y resultados clave:** 5.017 registros obtenidos mediante scraping · 1.808 anuncios únicos tras deduplicación · 65,9 % de los anuncios enriquecidos con Inside Airbnb · análisis comparativo de precios, capacidad, tipología de alojamiento, licencia y reputación del anfitrión.
-
 **Principales conclusiones:** las variables de capacidad son los factores que mejor explican el precio en ambas fuentes; el dataset histórico permite dimensionar el mercado y estudiar su evolución temporal, mientras que el scraping aporta una fotografía actual y variables adicionales de confianza del anfitrión. El solapamiento entre ambas fuentes es mínimo, por lo que se consideran **complementarias y no redundantes**.
-
-**Habilidades:** Web Scraping · ETL · Data Cleaning · EDA · Data Integration · Correlation Analysis · Data Visualization · Business Analysis
